@@ -1,0 +1,29 @@
+user_prefs = {
+    latitude:
+    latitude:
+    radius
+    openboolean
+    numplaces
+    type
+    closest
+    mode
+}
+
+stateMap = {
+    payloadsent
+    confirmquery
+    start
+    location
+    foodchosen
+    immediate
+    distance
+    numplaces
+    openboolean
+    mode
+    modify_location
+    modify_distance
+    modify_type
+    modify_numplaces
+    modify_openboolean
+    modify_mode
+}
